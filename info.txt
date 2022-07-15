@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Fri Jul  8 11:24:50 2022
++-+-+-+-+-+-+-+-+
+
+
+Number of texts: 39364
+Number of text segments: 39364
+Number of forms: 63071
+Number of occurrences: 3102034
+Number of lemmas: 48583
+Number of active forms: 34418
+Number of supplementary forms: 429
+Number of active forms with a frequency >= 147: 986
+Mean of forms by segment: 78.803831
+Number of clusters: 7
+31946 texts classified on 39364 (81.16%)
+
+###########################
+time : 0h 5m 56s
+###########################
